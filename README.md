@@ -1,1 +1,4 @@
-![Example Image]([https://github.com/yourusername/yourrepository/raw/main/image.jpg](https://github.com/Atlanta11/Gyro-Accelerometer-with-mpu6050/blob/main/Schermafbeelding%202024-04-14%20163723.png))
+![Example Image]([https://github.com/yourusername/yourrepository/raw/main/image.jpg](https://github.com/Atlanta11/Gyro-Accelerometer-with-mpu6050/blob/main/Schermafbeelding%202024-04-14%20163723.png)
+
+
+
